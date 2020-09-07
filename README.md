@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This React Component renders a carousel of images, which will scroll automatically through a set of images and allows the other to navigate between them.
+This React Component renders a carousel of images, which will scroll automatically through a set of images and allows the user to navigate between them.
 
 The Component takes the following props: 
 
